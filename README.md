@@ -6,7 +6,13 @@ Fly a present-like rocket to its receiver. This game is dedicated to my close fr
 This is the second project that I've made using Unity, it's in fact a kind of code-along project I finished while studying Complete C# Unity 3D Game Development by GameDev.tv. It's not big, but a proud accomplishment to me at the time.
 
 # Installation
+- Head to Releases section
+- Download Boost.rar
+- Extract Boost.rar, D-Click Boost.exe and play.
 
+# Input Manual
+- AD to rotate left and right
+- Space to boost
 
 
 
