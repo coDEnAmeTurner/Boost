@@ -10,7 +10,7 @@ This is the second project that I've made using Unity, it's in fact a kind of co
 - Download Boost.rar
 - Extract Boost.rar, D-Click Boost.exe and play.
 
-# Input Manual
+# Input Manuals
 - AD to rotate left and right
 - Space to boost
 
